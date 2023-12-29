@@ -15,6 +15,7 @@ Model yang digunakan adalah MobileNetV2 yang dimana model tersebut akan disimpan
 <img width="1343" alt="Jepretan Layar 2023-12-29 pukul 15 12 11" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/b7d67e33-00ab-4ddf-a2b7-b4dd4efba961">
 
 Evaluation Model
+
 <img width="567" alt="Jepretan Layar 2023-12-29 pukul 15 15 31" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/18726335-3e64-43b6-b69a-04b70c56e239">
 
 Hasil Predict Model yang telah di training
