@@ -18,7 +18,9 @@ Evaluation Model
 
 <img width="567" alt="Jepretan Layar 2023-12-29 pukul 15 15 31" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/18726335-3e64-43b6-b69a-04b70c56e239">
 
+
 Hasil Predict Model yang telah di training
+
 <img width="1685" alt="Jepretan Layar 2023-12-29 pukul 15 17 04" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/c76cb24d-81d5-4325-bd84-b5158fd1461f">
 
 # Local Development
