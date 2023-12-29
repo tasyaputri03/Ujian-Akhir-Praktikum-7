@@ -26,9 +26,17 @@ Hasil Predict Model yang telah di training
 # Local Development
 
 Tampilan Upload File
-<img width="1792" alt="Jepretan Layar 2023-12-15 pukul 18 26 53" src="https://github.com/tasyaputri03/Modul-6/assets/103129679/d792b0f1-4220-4585-9b3f-37a488115f06">
+<img width="1792" alt="Jepretan Layar 2023-12-29 pukul 14 55 49" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/2c998747-c2b7-433b-9103-31207ff592dc">
 
+Tampilan Upload file dari dataset yang digunakan
+<img width="1792" alt="Jepretan Layar 2023-12-29 pukul 14 56 14" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/46ae43be-83a3-49a1-854c-0f89af84149f">
 
 Tampilan Result
-<img width="1792" alt="Jepretan Layar 2023-12-15 pukul 18 27 26" src="https://github.com/tasyaputri03/Modul-6/assets/103129679/93a167af-f75b-4ee7-a671-3cf8e29a71c7">
+<img width="1792" alt="Jepretan Layar 2023-12-29 pukul 14 56 24" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/59f93d5d-7d8a-4b1c-83dd-40e91d6df392">
+
+Tampilan Upload file dari luar dataset yang digunakan
+<img width="1792" alt="Jepretan Layar 2023-12-29 pukul 14 56 59" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/aeed5477-a514-43cc-950c-4f5dfed693ed">
+
+Tampilan Result
+<img width="1792" alt="Jepretan Layar 2023-12-29 pukul 14 57 06" src="https://github.com/tasyaputri03/Ujian-Akhir-Praktikum-7/assets/103129679/371d0f92-2840-4184-bf1e-670b3c5e4a77">
 
